@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Backend Developer in progress, currently building a MERN-based GenAI project.<br>💡 Actively learning TypeScript, Node JS, Express JS and strengthening DSA fundamentals to write scalable, efficient code.<br>🔍 Open to Backend development opportunities where I can contribute, learn, and grow.
+🚀 Backend Developer in progress, currently building a SaaS Application.<br>💡 Actively learning TypeScript, Node JS, Express JS and strengthening DSA fundamentals to write scalable, efficient code.<br>🔍 Open to Backend development opportunities where I can contribute, learn, and grow.
 
 
 ## 🌐 Socials:
